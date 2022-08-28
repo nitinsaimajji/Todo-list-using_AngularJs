@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 20,
+      "firstname": "nitin",
+      "lastname": "kumarswamy",
+      "email": "karthikeya@gmail.com",
+      "mobile": "959569949",
+      "salary": "1020551051"
+    },
+    {
+      "id": 21,
+      "firstname": "Gwendwellin",
+      "lastname": "Tennyson",
+      "email": "gwen@gmail.com",
+      "mobile": "6548498464",
+      "salary": "56000500"
+    },
+    {
+      "id": 22,
+      "firstname": "ram",
+      "lastname": "sita",
+      "email": "sitaramam@gmail.com",
+      "mobile": "9878988999",
+      "salary": "5001650"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
